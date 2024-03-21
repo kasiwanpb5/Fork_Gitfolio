@@ -164,3 +164,10 @@ Blog's default JSON Format
 
 
 hello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helo
+
+## Thong tin
+
+* Ho va Ten: Dang Tuan Kiet
+* MSSV: 2011068856
+* Lop: 20DTHC1
+* Nganh: CNTT
