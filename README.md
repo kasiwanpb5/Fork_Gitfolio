@@ -161,3 +161,13 @@ Blog's default JSON Format
 ### License
 
 ![GitHub](https://img.shields.io/github/license/imfunniee/gitfolio.svg?style=popout-square)
+
+
+hello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helohello hello hello hello helo
+
+## Thong tin
+
+* Ho va Ten: Dang Tuan Kiet
+* MSSV: 2011068856
+* Lop: 20DTHC1
+* Nganh: CNTT
